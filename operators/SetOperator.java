@@ -10,9 +10,9 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.entailments.Closure;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.expressions.SetObject;
+import entailments.Closure;
+import expressions.Expression;
+import expressions.SetObject;
 
 
 public class SetOperator 

@@ -5,10 +5,10 @@
  */
 package domains;
 
-import com.resonant.xkm.changes.ChangeManager;
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.points.PointListener;
+import changes.ChangeManager;
+import containers.KMSet;
+import points.Point;
+import points.PointListener;
 
 /**
  * @author MLB

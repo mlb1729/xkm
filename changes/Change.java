@@ -5,7 +5,7 @@
  */
 package changes;
 
-import com.resonant.xkm.recycling.Recyclable;
+import recycling.Recyclable;
 
 /**
  * @author MLB

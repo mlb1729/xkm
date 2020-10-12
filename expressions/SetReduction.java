@@ -9,13 +9,13 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Closure;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.operators.Operator;
+import contexts.Context;
+import domains.Domain;
+import entailments.Closure;
+import entailments.Entailment;
+import entailments.Herd;
+import kb.KBObject;
+import operators.Operator;
 
 /**
  * @author MLB

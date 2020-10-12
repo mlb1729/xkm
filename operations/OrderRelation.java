@@ -7,7 +7,7 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.expressions.BoundedExpression;
+import expressions.BoundedExpression;
 
 /**
  * @author MLB

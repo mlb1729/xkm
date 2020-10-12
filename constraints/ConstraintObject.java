@@ -5,7 +5,7 @@
  */
 package constraints;
 
-import com.resonant.xkm.kb.KBMemberObject;
+import kb.KBMemberObject;
 
 /**
  * @author MLB

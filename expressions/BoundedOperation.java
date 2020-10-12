@@ -5,16 +5,16 @@
  */
 package expressions;
 
-import com.resonant.xkm.api.Interval;
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.bounds.CollidingBounds;
-import com.resonant.xkm.domains.FixedManagedPoint;
-import com.resonant.xkm.domains.ManagedPoint;
-import com.resonant.xkm.kb.IntervalObject;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
-import com.resonant.xkm.types.Type.BOOLEAN;
+import api.Interval;
+import bounds.Bounds;
+import bounds.CollidingBounds;
+import domains.FixedManagedPoint;
+import domains.ManagedPoint;
+import kb.IntervalObject;
+import kb.KBObject;
+import points.Point;
+import types.Type;
+import types.Type.BOOLEAN;
 
 /**
  * @author MLB

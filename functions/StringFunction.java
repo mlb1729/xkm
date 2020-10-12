@@ -5,8 +5,8 @@
  */
 package functions;
 
-import com.resonant.xkm.expressions.BoundedFunction;
-import com.resonant.xkm.types.Type;
+import expressions.BoundedFunction;
+import types.Type;
 
 /**
  * @author MLB

@@ -7,8 +7,8 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.SetObject;
+import expressions.BoundedExpression;
+import expressions.SetObject;
 
 /**
  * @author MLB

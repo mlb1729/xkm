@@ -11,26 +11,26 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import com.resonant.xkm.api.Binding;
-import com.resonant.xkm.caboodle.Caboodle;
-import com.resonant.xkm.caboodle.CaboodleObject;
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.containers.Namespace;
-import com.resonant.xkm.containers.NamespaceObject;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.BoundedVariable;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.expressions.Operation;
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.expressions.Variable;
-import com.resonant.xkm.kb.KBMember;
-import com.resonant.xkm.kb.KBMemberObject;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.operators.Operator;
-import com.resonant.xkm.operators.RootOperator;
-import com.resonant.xkm.operators.VariableOperator;
+import api.Binding;
+import caboodle.Caboodle;
+import caboodle.CaboodleObject;
+import containers.KMSet;
+import containers.Namespace;
+import containers.NamespaceObject;
+import domains.Domain;
+import entailments.Entailment;
+import expressions.BoundedExpression;
+import expressions.BoundedVariable;
+import expressions.Expression;
+import expressions.Operation;
+import expressions.SetObject;
+import expressions.Variable;
+import kb.KBMember;
+import kb.KBMemberObject;
+import kb.KBObject;
+import operators.Operator;
+import operators.RootOperator;
+import operators.VariableOperator;
 
 /**
  * @author MLB

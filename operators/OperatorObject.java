@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.km.KMObject;
+import expressions.Expression;
+import km.KMObject;
 
 /**
  * @author MLB

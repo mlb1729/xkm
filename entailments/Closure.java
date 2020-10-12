@@ -7,11 +7,11 @@ package entailments;
 
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableEntailment;
-import com.resonant.xkm.operators.EntailmentOperator;
+import contexts.Context;
+import contexts.ContextObject;
+import loader.Loadable;
+import loader.LoadableEntailment;
+import operators.EntailmentOperator;
 
 /**
  * @author MLB

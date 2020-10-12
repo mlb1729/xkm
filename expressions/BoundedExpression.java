@@ -5,8 +5,8 @@
  */
 package expressions;
 
-import com.resonant.xkm.api.Interval;
-import com.resonant.xkm.bounds.Bounds;
+import api.Interval;
+import bounds.Bounds;
 
 /**
  * @author MLB

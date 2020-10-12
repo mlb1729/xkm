@@ -8,9 +8,9 @@ package entailments;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.expressions.BasisListener;
-import com.resonant.xkm.loader.LoadableEntailment;
+import domains.Domain;
+import expressions.BasisListener;
+import loader.LoadableEntailment;
 
 /**
  * @author MLB

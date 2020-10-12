@@ -5,9 +5,9 @@
  */
 package caboodle;
 
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.operators.Operator;
-import com.resonant.xkm.reader.Combo;
+import loader.Loadable;
+import operators.Operator;
+import reader.Combo;
 
 /**
  * @author MLB

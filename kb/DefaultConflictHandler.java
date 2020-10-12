@@ -8,9 +8,9 @@ package kb;
 import java.io.Serializable;
 import java.util.List;
 
-import com.resonant.xkm.api.ConflictHandler;
-import com.resonant.xkm.api.KB;
-import com.resonant.xkm.km.KMObject;
+import api.ConflictHandler;
+import api.KB;
+import km.KMObject;
 
 /**
  * @author MLB

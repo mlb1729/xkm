@@ -5,8 +5,8 @@
  */
 package operations;
 
-import com.resonant.xkm.expressions.BoundedOperation;
-import com.resonant.xkm.types.Type;
+import expressions.BoundedOperation;
+import types.Type;
 
 /**
  * @author MLB

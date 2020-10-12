@@ -5,9 +5,9 @@
  */
 package kb;
 
-import com.resonant.xkm.api.Assertion;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.km.KMObject;
+import api.Assertion;
+import expressions.BoundedExpression;
+import km.KMObject;
 
 /**
  * @author MLB

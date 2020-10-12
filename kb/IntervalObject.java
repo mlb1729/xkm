@@ -5,8 +5,8 @@
  */
 package kb;
 
-import com.resonant.xkm.api.Interval;
-import com.resonant.xkm.km.KMObject;
+import api.Interval;
+import km.KMObject;
 
 /**
  * @author MLB

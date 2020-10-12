@@ -5,9 +5,9 @@
  */
 package kb;
 
-import com.resonant.xkm.api.ConstraintDescription;
-import com.resonant.xkm.km.KMObject;
-import com.resonant.xkm.km.Named;
+import api.ConstraintDescription;
+import km.KMObject;
+import km.Named;
 
 /**
  * @author MLB

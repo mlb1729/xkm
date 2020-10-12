@@ -5,7 +5,7 @@
  */
 package api;
 
-import com.resonant.xkm.caboodle.Caboodle;
+import caboodle.Caboodle;
 
 
 /**

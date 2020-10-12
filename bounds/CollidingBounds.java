@@ -5,10 +5,10 @@
  */
 package bounds;
 
-import com.resonant.xkm.points.DecreasingPoint;
-import com.resonant.xkm.points.IncreasingPoint;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
+import points.DecreasingPoint;
+import points.IncreasingPoint;
+import points.Point;
+import types.Type;
 
 /**
  * @author MLB

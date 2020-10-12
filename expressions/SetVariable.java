@@ -7,9 +7,9 @@ package expressions;
 
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.km.Fetcher;
+import contexts.Context;
+import entailments.Herd;
+import km.Fetcher;
 
 /**
  * @author MLB

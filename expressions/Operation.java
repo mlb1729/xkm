@@ -10,23 +10,23 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
-import com.resonant.xkm.api.ConstraintDescription;
-import com.resonant.xkm.changes.Change;
-import com.resonant.xkm.contexts.ContextObject;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.domains.DomainObject;
-import com.resonant.xkm.entailments.Closure;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.exceptions.UnwindingException;
-import com.resonant.xkm.kb.ConstraintDescriptionObject;
-import com.resonant.xkm.kb.KBMember;
-import com.resonant.xkm.kb.KBMemberObject;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.km.Named;
-import com.resonant.xkm.loader.LoadableEntailment;
-import com.resonant.xkm.operators.Operator;
-import com.resonant.xkm.operators.OperatorObject;
-import com.resonant.xkm.operators.VariableOperator;
+import api.ConstraintDescription;
+import changes.Change;
+import contexts.ContextObject;
+import domains.Domain;
+import domains.DomainObject;
+import entailments.Closure;
+import entailments.Entailment;
+import exceptions.UnwindingException;
+import kb.ConstraintDescriptionObject;
+import kb.KBMember;
+import kb.KBMemberObject;
+import kb.KBObject;
+import km.Named;
+import loader.LoadableEntailment;
+import operators.Operator;
+import operators.OperatorObject;
+import operators.VariableOperator;
 
 /**
  * @author MLB

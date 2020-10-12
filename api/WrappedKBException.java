@@ -6,7 +6,7 @@
 package api;
 
 import com.resonant.exception.ResonantBaseException;
-import com.resonant.xkm.exceptions.KMException;
+import exceptions.KMException;
 
 /**
  * @author MLB

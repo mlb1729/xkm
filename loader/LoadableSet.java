@@ -8,8 +8,8 @@ package loader;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.SetObject;
+import contexts.Context;
+import expressions.SetObject;
 
 /**
  * @author MLB

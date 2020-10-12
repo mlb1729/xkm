@@ -5,7 +5,7 @@
  */
 package xml;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 /**
  * @author MLB
@@ -16,7 +16,7 @@ public class Test
 	extends KMObject 
 {
 	/*
-	//import com.resonant.xkm.common.TestDocument;
+	//import common.TestDocument;
 	protected static TestDocument getTestDocument(String xml) 
 	{
 		TestDocument testDocument = TestDocument.Factory.newInstance();		

@@ -5,7 +5,7 @@
  */
 package reader;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 
 public class XSyntax extends KMObject {

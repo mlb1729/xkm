@@ -7,9 +7,9 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.types.Type;
+import exceptions.Contradiction;
+import expressions.BoundedExpression;
+import types.Type;
 
 /**
  * @author MLB

@@ -5,10 +5,10 @@
  */
 package loader;
 
-import com.resonant.xkm.api.ConstraintDescription;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.kb.ConstraintDescriptionObject;
+import api.ConstraintDescription;
+import contexts.Context;
+import expressions.BoundedExpression;
+import kb.ConstraintDescriptionObject;
 
 /**
  * @author MLB

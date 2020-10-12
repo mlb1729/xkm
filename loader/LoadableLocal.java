@@ -5,9 +5,9 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.operations.Proxy;
+import contexts.Context;
+import entailments.Entailment;
+import operations.Proxy;
 
 /**
  * @author MLB

@@ -7,12 +7,12 @@ package loader;
 
 import java.util.List;
 
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedVariable;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.km.Named;
-import com.resonant.xkm.operators.RootOperator;
+import bounds.Bounds;
+import contexts.Context;
+import expressions.BoundedVariable;
+import expressions.Expression;
+import km.Named;
+import operators.RootOperator;
 
 /**
  * @author MLB

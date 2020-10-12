@@ -5,8 +5,8 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.Expression;
+import contexts.Context;
+import expressions.Expression;
 
 /**
  * @author MLB

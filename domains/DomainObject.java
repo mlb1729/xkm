@@ -12,14 +12,14 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.kb.KBMemberObject;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.points.PointListener;
-import com.resonant.xkm.types.Type;
-import com.resonant.xkm.types.Typed;
-import com.resonant.xkm.types.TypedObject;
+import containers.KMSet;
+import kb.KBMemberObject;
+import kb.KBObject;
+import points.Point;
+import points.PointListener;
+import types.Type;
+import types.Typed;
+import types.TypedObject;
 
 /**
  * @author MLB

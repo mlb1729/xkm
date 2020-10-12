@@ -9,14 +9,14 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import com.resonant.xkm.caboodle.Caboodle;
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.kb.KBMember;
-import com.resonant.xkm.km.Fetcher;
-import com.resonant.xkm.km.Named;
-import com.resonant.xkm.operators.Operator;
+import caboodle.Caboodle;
+import containers.KMSet;
+import expressions.BoundedExpression;
+import expressions.Expression;
+import kb.KBMember;
+import km.Fetcher;
+import km.Named;
+import operators.Operator;
 
 
 /**

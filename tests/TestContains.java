@@ -7,18 +7,18 @@ package tests;
 
 import org.apache.log4j.Logger;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableConstant;
-import com.resonant.xkm.loader.LoadableConstrainment;
-import com.resonant.xkm.loader.LoadableEnum;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.loader.LoadableLocal;
-import com.resonant.xkm.loader.LoadableSetObject;
-import com.resonant.xkm.loader.LoadableStructure;
-import com.resonant.xkm.operators.RootOperator;
+import contexts.Context;
+import expressions.BoundedExpression;
+import kb.KBObject;
+import loader.Loadable;
+import loader.LoadableConstant;
+import loader.LoadableConstrainment;
+import loader.LoadableEnum;
+import loader.LoadableExpression;
+import loader.LoadableLocal;
+import loader.LoadableSetObject;
+import loader.LoadableStructure;
+import operators.RootOperator;
 
 /**
  * @author MLB

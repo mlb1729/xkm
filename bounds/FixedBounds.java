@@ -5,7 +5,7 @@
  */
 package bounds;
 
-import com.resonant.xkm.points.Point;
+import points.Point;
 
 /**
  * @author MLB

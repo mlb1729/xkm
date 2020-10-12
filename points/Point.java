@@ -5,8 +5,8 @@
  */
 package points;
 
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.types.Typed;
+import expressions.Expression;
+import types.Typed;
 
 /**
  * @author MLB

@@ -7,8 +7,8 @@ package domains;
 
 import java.util.Set;
 
-import com.resonant.xkm.kb.KBMember;
-import com.resonant.xkm.types.Typed;
+import kb.KBMember;
+import types.Typed;
 
 /**
  * @author MLB

@@ -5,7 +5,7 @@
  */
 package expressions;
 
-import com.resonant.xkm.domains.Domain;
+import domains.Domain;
 
 /**
  * @author MLB

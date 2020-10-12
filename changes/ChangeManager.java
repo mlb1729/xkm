@@ -9,10 +9,10 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.resonant.xkm.km.KMObject;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.recycling.RecyclableFactory;
-import com.resonant.xkm.recycling.RecyclableObject;
+import km.KMObject;
+import points.Point;
+import recycling.RecyclableFactory;
+import recycling.RecyclableObject;
 
 /**
  * @author MLB

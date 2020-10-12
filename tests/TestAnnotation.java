@@ -10,15 +10,15 @@ import java.io.ObjectOutputStream;
 
 import org.apache.log4j.Logger;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableBounds;
-import com.resonant.xkm.loader.LoadableHerd;
-import com.resonant.xkm.loader.LoadableLocal;
-import com.resonant.xkm.loader.LoadableMember;
-import com.resonant.xkm.loader.LoadableStructure;
-import com.resonant.xkm.loader.LoadableVariable;
+import contexts.Context;
+import kb.KBObject;
+import loader.Loadable;
+import loader.LoadableBounds;
+import loader.LoadableHerd;
+import loader.LoadableLocal;
+import loader.LoadableMember;
+import loader.LoadableStructure;
+import loader.LoadableVariable;
 
 /**
  * @author MLB

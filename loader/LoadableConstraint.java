@@ -5,12 +5,12 @@
  */
 package loader;
 
-import com.resonant.xkm.api.Assertion;
-import com.resonant.xkm.api.ConstraintDescription;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedVariable;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.operators.RootOperator;
+import api.Assertion;
+import api.ConstraintDescription;
+import contexts.Context;
+import expressions.BoundedVariable;
+import kb.KBObject;
+import operators.RootOperator;
 
 /**
  * @author MLB

@@ -5,15 +5,15 @@
  */
 package domains;
 
-import com.resonant.xkm.changes.ChangeManager;
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.km.KMObject;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.points.PointListener;
-import com.resonant.xkm.types.Type;
-import com.resonant.xkm.types.Typed;
+import changes.ChangeManager;
+import containers.KMSet;
+import exceptions.Contradiction;
+import expressions.Expression;
+import km.KMObject;
+import points.Point;
+import points.PointListener;
+import types.Type;
+import types.Typed;
 
 /**
  * @author MLB

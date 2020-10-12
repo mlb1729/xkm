@@ -5,10 +5,10 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
+import contexts.Context;
+import expressions.Expression;
+import points.Point;
+import types.Type;
 
 /**
  * @author MLB

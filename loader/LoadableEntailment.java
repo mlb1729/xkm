@@ -8,12 +8,12 @@ package loader;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.expressions.Variable;
-import com.resonant.xkm.operators.EntailmentOperator;
+import contexts.Context;
+import entailments.Entailment;
+import expressions.BoundedExpression;
+import expressions.Expression;
+import expressions.Variable;
+import operators.EntailmentOperator;
 
 /**
  * @author MLB

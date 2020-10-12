@@ -10,17 +10,17 @@ import java.util.List;
 
 import junit.framework.TestCase;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableBounds;
-import com.resonant.xkm.loader.LoadableConstrainment;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.loader.LoadableLocal;
-import com.resonant.xkm.loader.LoadableStructure;
-import com.resonant.xkm.loader.LoadableVariable;
-import com.resonant.xkm.operators.RootOperator;
+import contexts.Context;
+import expressions.BoundedExpression;
+import kb.KBObject;
+import loader.Loadable;
+import loader.LoadableBounds;
+import loader.LoadableConstrainment;
+import loader.LoadableExpression;
+import loader.LoadableLocal;
+import loader.LoadableStructure;
+import loader.LoadableVariable;
+import operators.RootOperator;
 
 /**
  * @author MLB

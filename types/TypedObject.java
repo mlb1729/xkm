@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 /**
  * @author MLB

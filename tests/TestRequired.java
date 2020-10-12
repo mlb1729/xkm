@@ -10,24 +10,24 @@ import java.io.ObjectOutputStream;
 
 import org.apache.log4j.Logger;
 
-import com.resonant.xkm.api.Assertion;
-import com.resonant.xkm.api.Interval;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableBounds;
-import com.resonant.xkm.loader.LoadableConstant;
-import com.resonant.xkm.loader.LoadableConstraint;
-import com.resonant.xkm.loader.LoadableEntailment;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.loader.LoadableHerd;
-import com.resonant.xkm.loader.LoadableLocal;
-import com.resonant.xkm.loader.LoadableMember;
-import com.resonant.xkm.loader.LoadableQuantification;
-import com.resonant.xkm.loader.LoadableSetObject;
-import com.resonant.xkm.loader.LoadableStructure;
-import com.resonant.xkm.loader.LoadableVariable;
-import com.resonant.xkm.operators.RootOperator;
+import api.Assertion;
+import api.Interval;
+import contexts.Context;
+import kb.KBObject;
+import loader.Loadable;
+import loader.LoadableBounds;
+import loader.LoadableConstant;
+import loader.LoadableConstraint;
+import loader.LoadableEntailment;
+import loader.LoadableExpression;
+import loader.LoadableHerd;
+import loader.LoadableLocal;
+import loader.LoadableMember;
+import loader.LoadableQuantification;
+import loader.LoadableSetObject;
+import loader.LoadableStructure;
+import loader.LoadableVariable;
+import operators.RootOperator;
 
 /**
  * @author MLB

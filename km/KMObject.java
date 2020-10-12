@@ -14,9 +14,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import com.resonant.xkm.containers.KMSet;
-import com.resonant.xkm.exceptions.KMError;
-import com.resonant.xkm.exceptions.KMSignal;
+import containers.KMSet;
+import exceptions.KMError;
+import exceptions.KMSignal;
 
 /**
  * @author MLB

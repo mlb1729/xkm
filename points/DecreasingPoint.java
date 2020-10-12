@@ -5,7 +5,7 @@
  */
 package points;
 
-import com.resonant.xkm.bounds.Bounds;
+import bounds.Bounds;
 
 
 /**

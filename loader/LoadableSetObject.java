@@ -5,11 +5,11 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.operators.EntailmentOperator;
-import com.resonant.xkm.operators.SetOperator;
+import contexts.Context;
+import entailments.Entailment;
+import expressions.SetObject;
+import operators.EntailmentOperator;
+import operators.SetOperator;
 
 /**
  * @author MLB

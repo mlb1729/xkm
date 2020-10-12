@@ -8,9 +8,9 @@ package operators;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.expressions.Expression;
+import contexts.Context;
+import entailments.Entailment;
+import expressions.Expression;
 
 /**
  * @author MLB

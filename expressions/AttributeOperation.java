@@ -9,9 +9,9 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.types.Type;
+import domains.Domain;
+import entailments.Entailment;
+import types.Type;
 
 
 public class AttributeOperation 

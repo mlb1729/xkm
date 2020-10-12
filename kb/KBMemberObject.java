@@ -8,10 +8,10 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.km.KMObject;
+import contexts.Context;
+import contexts.ContextObject;
+import exceptions.Contradiction;
+import km.KMObject;
 
 /**
  * @author MLB

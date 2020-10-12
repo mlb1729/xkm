@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 public class RecyclableFactory 
 	extends KMObject 

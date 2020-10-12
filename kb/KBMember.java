@@ -7,8 +7,8 @@ package kb;
 
 import java.util.Set;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
+import contexts.Context;
+import contexts.ContextObject;
 
 /**
  * @author MLB

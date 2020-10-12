@@ -5,7 +5,7 @@
  */
 package api;
 
-import com.resonant.xkm.km.Named;
+import km.Named;
 
 public interface ConstraintDescription
 	extends Named

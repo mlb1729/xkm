@@ -7,11 +7,11 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.expressions.AttributeOperation;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.BoundedOperation;
-import com.resonant.xkm.types.Type;
+import entailments.Entailment;
+import expressions.AttributeOperation;
+import expressions.BoundedExpression;
+import expressions.BoundedOperation;
+import types.Type;
 
 
 public class AttributeMinimum 

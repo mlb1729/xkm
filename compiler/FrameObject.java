@@ -8,7 +8,7 @@ package compiler;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 /**
  * @author MLB

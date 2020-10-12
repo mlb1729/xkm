@@ -5,9 +5,9 @@
  */
 package loader;
 
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.types.Type;
+import bounds.Bounds;
+import contexts.Context;
+import types.Type;
 
 /**
  * @author MLB

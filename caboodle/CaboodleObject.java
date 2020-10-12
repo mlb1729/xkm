@@ -8,13 +8,13 @@ package caboodle;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.resonant.xkm.compiler.CompilerObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.loader.LoadableObject;
-import com.resonant.xkm.operators.Operator;
-import com.resonant.xkm.operators.RootOperator;
-import com.resonant.xkm.reader.Combo;
+import compiler.CompilerObject;
+import loader.Loadable;
+import loader.LoadableExpression;
+import loader.LoadableObject;
+import operators.Operator;
+import operators.RootOperator;
+import reader.Combo;
 
 /**
  * @author MLB

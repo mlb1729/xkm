@@ -5,10 +5,10 @@
  */
 package operations;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.BoundedVariable;
-import com.resonant.xkm.types.Type;
+import contexts.Context;
+import expressions.BoundedExpression;
+import expressions.BoundedVariable;
+import types.Type;
 
 /**
  * @author MLB

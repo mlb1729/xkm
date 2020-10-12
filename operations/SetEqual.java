@@ -9,10 +9,10 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.expressions.BoundedOperation;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.operators.RootOperator;
+import expressions.BoundedOperation;
+import expressions.Expression;
+import expressions.SetObject;
+import operators.RootOperator;
 
 /**
  * @author MLB

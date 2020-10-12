@@ -5,8 +5,8 @@
  */
 package entailments;
 
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.loader.LoadableEntailment;
+import expressions.SetObject;
+import loader.LoadableEntailment;
 
 /**
  * @author MLB

@@ -5,8 +5,8 @@
  */
 package bounds;
 
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Typed;
+import points.Point;
+import types.Typed;
 
 /**
  * @author MLB

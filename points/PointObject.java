@@ -9,10 +9,10 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.types.Type;
-import com.resonant.xkm.types.TypedObject;
+import exceptions.Contradiction;
+import expressions.Expression;
+import types.Type;
+import types.TypedObject;
 
 /**
  * @author MLB

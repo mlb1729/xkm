@@ -8,8 +8,8 @@ package loader;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.km.KMObject;
+import contexts.Context;
+import km.KMObject;
 
 /**
  * @author MLB

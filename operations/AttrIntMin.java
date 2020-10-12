@@ -5,7 +5,7 @@
  */
 package operations;
 
-import com.resonant.xkm.types.Type;
+import types.Type;
 
 public class AttrIntMin 
 	extends AttributeMinimum 

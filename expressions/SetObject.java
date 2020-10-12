@@ -9,19 +9,19 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Closure;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.loader.LoadableConstant;
-import com.resonant.xkm.loader.LoadableConstraint;
-import com.resonant.xkm.loader.LoadableEntailment;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.operators.RootOperator;
-import com.resonant.xkm.operators.SetOperator;
-import com.resonant.xkm.types.Type;
+import contexts.Context;
+import contexts.ContextObject;
+import domains.Domain;
+import entailments.Closure;
+import entailments.Entailment;
+import entailments.Herd;
+import loader.LoadableConstant;
+import loader.LoadableConstraint;
+import loader.LoadableEntailment;
+import loader.LoadableExpression;
+import operators.RootOperator;
+import operators.SetOperator;
+import types.Type;
 
 /**
  * @author MLB

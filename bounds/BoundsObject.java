@@ -9,10 +9,10 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
-import com.resonant.xkm.types.TypedObject;
-import com.resonant.xkm.types.Type.BOOLEAN;
+import points.Point;
+import types.Type;
+import types.TypedObject;
+import types.Type.BOOLEAN;
 
 /**
  * @author MLB

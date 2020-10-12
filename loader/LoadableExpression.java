@@ -8,9 +8,9 @@ package loader;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.operators.Operator;
+import contexts.Context;
+import expressions.Expression;
+import operators.Operator;
 
 /**
  * @author MLB

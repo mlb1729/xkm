@@ -7,21 +7,21 @@ package tests;
 
 import org.apache.log4j.Logger;
 
-import com.resonant.xkm.api.Assertion;
-import com.resonant.xkm.api.KB;
-import com.resonant.xkm.api.UserDefinedFunctionKernel;
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.loader.LoadableBounds;
-import com.resonant.xkm.loader.LoadableConstrainment;
-import com.resonant.xkm.loader.LoadableExpression;
-import com.resonant.xkm.loader.LoadableLocal;
-import com.resonant.xkm.loader.LoadableStructure;
-import com.resonant.xkm.loader.LoadableVariable;
-import com.resonant.xkm.operators.RootOperator;
-import com.resonant.xkm.operators.UserDefinedFunction;
+import api.Assertion;
+import api.KB;
+import api.UserDefinedFunctionKernel;
+import contexts.Context;
+import expressions.BoundedExpression;
+import kb.KBObject;
+import loader.Loadable;
+import loader.LoadableBounds;
+import loader.LoadableConstrainment;
+import loader.LoadableExpression;
+import loader.LoadableLocal;
+import loader.LoadableStructure;
+import loader.LoadableVariable;
+import operators.RootOperator;
+import operators.UserDefinedFunction;
 
 /**
  * @author MLB

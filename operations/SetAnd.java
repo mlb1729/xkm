@@ -8,12 +8,12 @@ package operations;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.expressions.SetOperation;
-import com.resonant.xkm.kb.KBObject;
+import contexts.Context;
+import entailments.Herd;
+import expressions.Expression;
+import expressions.SetObject;
+import expressions.SetOperation;
+import kb.KBObject;
 
 /**
  * @author MLB

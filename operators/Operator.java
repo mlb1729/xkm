@@ -8,8 +8,8 @@ package operators;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.expressions.Expression;
-import com.resonant.xkm.km.Named;
+import expressions.Expression;
+import km.Named;
 
 /**
  * @author MLB

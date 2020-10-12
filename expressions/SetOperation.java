@@ -7,10 +7,10 @@ package expressions;
 
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.km.Fetcher;
+import contexts.Context;
+import domains.Domain;
+import entailments.Herd;
+import km.Fetcher;
 
 /**
  * @author MLB

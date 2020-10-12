@@ -5,11 +5,11 @@
  */
 package expressions;
 
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.domains.ManagedPoint;
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
+import bounds.Bounds;
+import domains.ManagedPoint;
+import exceptions.Contradiction;
+import points.Point;
+import types.Type;
 
 /**
  * @author MLB

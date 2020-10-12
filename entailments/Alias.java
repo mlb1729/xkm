@@ -5,7 +5,7 @@
  */
 package entailments;
 
-import com.resonant.xkm.contexts.Context;
+import contexts.Context;
 
 public class Alias 
 	extends Entailment 

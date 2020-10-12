@@ -7,8 +7,8 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.exceptions.Contradiction;
-import com.resonant.xkm.expressions.BoundedExpression;
+import exceptions.Contradiction;
+import expressions.BoundedExpression;
 
 public class EqualityRelation 
 	extends LogicalOperation 

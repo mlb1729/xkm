@@ -7,8 +7,8 @@ package expressions;
 
 import java.util.List;
 
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.operators.Operator;
+import domains.Domain;
+import operators.Operator;
 
 /**
  * @author MLB

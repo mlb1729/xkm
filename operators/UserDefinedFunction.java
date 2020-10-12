@@ -5,10 +5,10 @@
  */
 package operators;
 
-import com.resonant.xkm.api.UserDefinedFunctionKernel;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.BoundedOperation;
-import com.resonant.xkm.expressions.Expression;
+import api.UserDefinedFunctionKernel;
+import expressions.BoundedExpression;
+import expressions.BoundedOperation;
+import expressions.Expression;
 
 /**
  * @author MLB

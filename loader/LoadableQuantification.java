@@ -5,11 +5,11 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.entailments.Quantification;
-import com.resonant.xkm.operators.EntailmentOperator;
-import com.resonant.xkm.operators.QuantificationOperator;
+import contexts.Context;
+import entailments.Entailment;
+import entailments.Quantification;
+import operators.EntailmentOperator;
+import operators.QuantificationOperator;
 
 /**
  * @author MLB

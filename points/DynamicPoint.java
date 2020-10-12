@@ -5,7 +5,7 @@
  */
 package points;
 
-import com.resonant.xkm.types.Type;
+import types.Type;
 
 
 

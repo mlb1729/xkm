@@ -8,8 +8,8 @@ package containers;
 import java.util.Iterator;
 import java.util.List;
 
-import com.resonant.xkm.km.Fetcher;
-import com.resonant.xkm.km.Named;
+import km.Fetcher;
+import km.Named;
 
 /**
  * @author MLB

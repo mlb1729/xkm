@@ -7,8 +7,8 @@ package compiler;
 
 import java.lang.reflect.Method;
 
-import com.resonant.xkm.loader.Loadable;
-import com.resonant.xkm.reader.Combo;
+import loader.Loadable;
+import reader.Combo;
 
 /**
  * @author MLB

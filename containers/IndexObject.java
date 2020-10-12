@@ -7,7 +7,7 @@ package containers;
 
 import java.util.*;
 
-import com.resonant.xkm.km.KMObject;
+import km.KMObject;
 
 /**
  * @author MLB

@@ -5,8 +5,8 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
+import contexts.Context;
+import contexts.ContextObject;
 
 /**
  * @author MLB

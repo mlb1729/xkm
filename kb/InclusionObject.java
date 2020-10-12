@@ -5,8 +5,8 @@
  */
 package kb;
 
-import com.resonant.xkm.api.Inclusion;
-import com.resonant.xkm.km.KMObject;
+import api.Inclusion;
+import km.KMObject;
 
 /**
  * @author MLB

@@ -5,15 +5,15 @@
  */
 package expressions;
 
-import com.resonant.xkm.api.Binding;
-import com.resonant.xkm.api.Interval;
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.bounds.CollidingBounds;
-import com.resonant.xkm.kb.BindingObject;
-import com.resonant.xkm.operators.Operator;
-import com.resonant.xkm.operators.VariableOperator;
-import com.resonant.xkm.points.Point;
-import com.resonant.xkm.types.Type;
+import api.Binding;
+import api.Interval;
+import bounds.Bounds;
+import bounds.CollidingBounds;
+import kb.BindingObject;
+import operators.Operator;
+import operators.VariableOperator;
+import points.Point;
+import types.Type;
 
 /**
  * @author MLB

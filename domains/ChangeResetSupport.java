@@ -7,7 +7,7 @@ package domains;
 
 import java.util.ArrayList;
 
-import com.resonant.xkm.containers.KMSet;
+import containers.KMSet;
 
 /**
  * @author MLB

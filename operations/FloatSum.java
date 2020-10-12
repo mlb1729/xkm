@@ -7,8 +7,8 @@ package operations;
 
 import java.util.List;
 
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.types.Type.FLOAT;
+import expressions.BoundedExpression;
+import types.Type.FLOAT;
 
 /**
  * @author MLB

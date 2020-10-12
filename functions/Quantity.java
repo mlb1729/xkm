@@ -7,14 +7,14 @@ package functions;
 
 import java.util.List;
 
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.entailments.Closure;
-import com.resonant.xkm.entailments.Entailment;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.expressions.BasisListener;
-import com.resonant.xkm.expressions.BoundedExpression;
-import com.resonant.xkm.expressions.SetObject;
-import com.resonant.xkm.types.Type;
+import domains.Domain;
+import entailments.Closure;
+import entailments.Entailment;
+import entailments.Herd;
+import expressions.BasisListener;
+import expressions.BoundedExpression;
+import expressions.SetObject;
+import types.Type;
 
 /**
  * @author MLB

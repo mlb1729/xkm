@@ -5,9 +5,9 @@
  */
 package loader;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.entailments.Herd;
-import com.resonant.xkm.operators.EntailmentOperator;
+import contexts.Context;
+import entailments.Herd;
+import operators.EntailmentOperator;
 
 /**
  * @author MLB

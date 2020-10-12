@@ -12,12 +12,12 @@ import java.io.ObjectOutput;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.resonant.xkm.bounds.Bounds;
-import com.resonant.xkm.bounds.FixedBounds;
-import com.resonant.xkm.containers.IndexObject;
-import com.resonant.xkm.km.Named;
-import com.resonant.xkm.points.FixedPoint;
-import com.resonant.xkm.points.Point;
+import bounds.Bounds;
+import bounds.FixedBounds;
+import containers.IndexObject;
+import km.Named;
+import points.FixedPoint;
+import points.Point;
 
 /**
  * @author MLB

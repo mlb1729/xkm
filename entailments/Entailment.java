@@ -8,16 +8,16 @@ package entailments;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.resonant.xkm.contexts.Context;
-import com.resonant.xkm.contexts.ContextObject;
-import com.resonant.xkm.domains.Domain;
-import com.resonant.xkm.expressions.Variable;
-import com.resonant.xkm.kb.KBObject;
-import com.resonant.xkm.km.Fetcher;
-import com.resonant.xkm.loader.LoadableEntailment;
-import com.resonant.xkm.operations.Entails;
-import com.resonant.xkm.operators.EntailmentOperator;
-import com.resonant.xkm.operators.Operator;
+import contexts.Context;
+import contexts.ContextObject;
+import domains.Domain;
+import expressions.Variable;
+import kb.KBObject;
+import km.Fetcher;
+import loader.LoadableEntailment;
+import operations.Entails;
+import operators.EntailmentOperator;
+import operators.Operator;
 
 
 public class Entailment 

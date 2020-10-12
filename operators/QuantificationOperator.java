@@ -5,7 +5,7 @@
  */
 package operators;
 
-import com.resonant.xkm.entailments.Quantification;
+import entailments.Quantification;
 
 
 /**

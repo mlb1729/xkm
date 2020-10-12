@@ -3,6 +3,6 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 public class Nor extends NaryBoolean {public Nor(){super(true, false);}}

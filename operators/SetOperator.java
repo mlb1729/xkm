@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operators;
+package operators;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.tests;
+package tests;
 
 import java.util.ArrayList;
 import java.util.List;

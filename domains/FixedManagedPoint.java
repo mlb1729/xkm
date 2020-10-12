@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.domains;
+package domains;
 
 import com.resonant.xkm.changes.ChangeManager;
 import com.resonant.xkm.containers.KMSet;

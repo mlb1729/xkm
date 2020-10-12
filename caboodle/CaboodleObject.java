@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.caboodle;
+package caboodle;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.compiler;
+package compiler;
 
 import java.lang.reflect.Method;
 

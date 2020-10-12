@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.functions;
+package functions;
 
 import com.resonant.xkm.expressions.BoundedFunction;
 import com.resonant.xkm.types.Type;

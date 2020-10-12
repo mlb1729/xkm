@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.expressions;
+package expressions;
 
 /**
  * @author MLB

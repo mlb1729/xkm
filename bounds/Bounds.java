@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.bounds;
+package bounds;
 
 import com.resonant.xkm.points.Point;
 import com.resonant.xkm.types.Typed;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.points;
+package points;
 
 import com.resonant.xkm.types.Type;
 

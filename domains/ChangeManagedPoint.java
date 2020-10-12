@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.domains;
+package domains;
 
 import com.resonant.xkm.changes.Change;
 import com.resonant.xkm.recycling.RecyclableObject;

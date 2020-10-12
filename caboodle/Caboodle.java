@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.caboodle;
+package caboodle;
 
 import com.resonant.xkm.loader.Loadable;
 import com.resonant.xkm.operators.Operator;

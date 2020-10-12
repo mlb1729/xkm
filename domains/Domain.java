@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.domains;
+package domains;
 
 import java.util.Set;
 

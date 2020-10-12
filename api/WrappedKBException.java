@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.api;
+package api;
 
 import com.resonant.exception.ResonantBaseException;
 import com.resonant.xkm.exceptions.KMException;

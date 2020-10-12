@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.reader;
+package reader;
 
 
 /**

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.points;
+package points;
 
 import java.io.IOException;
 import java.io.ObjectInput;

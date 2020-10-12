@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.containers;
+package containers;
 
 import java.util.ArrayList;
 import java.util.Collection;

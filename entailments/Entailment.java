@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.entailments;
+package entailments;
 
 import java.util.ArrayList;
 import java.util.List;

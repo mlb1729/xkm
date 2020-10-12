@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.reader;
+package reader;
 
 import java.util.ArrayList;
 import java.util.List;

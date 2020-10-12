@@ -3,6 +3,6 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 public class Nand extends NaryBoolean {public Nand(){super(false, true);}}

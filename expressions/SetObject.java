@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.expressions;
+package expressions;
 
 import java.util.ArrayList;
 import java.util.Iterator;

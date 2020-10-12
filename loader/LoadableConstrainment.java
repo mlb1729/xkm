@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.loader;
+package loader;
 
 import com.resonant.xkm.api.ConstraintDescription;
 import com.resonant.xkm.contexts.Context;

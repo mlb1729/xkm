@@ -2,7 +2,7 @@
  * Created on Aug 23, 2004
  *
  */
-package com.resonant.xkm.kb;
+package kb;
 
 import java.util.HashSet;
 import java.util.Iterator;

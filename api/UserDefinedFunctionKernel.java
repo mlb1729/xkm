@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.api;
+package api;
 
 import java.io.Serializable;
 

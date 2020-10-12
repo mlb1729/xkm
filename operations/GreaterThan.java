@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 
 public class GreaterThan extends OrderRelation {public GreaterThan () {super(true,false);}}

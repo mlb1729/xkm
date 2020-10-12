@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 public class And 
 	extends NaryBoolean 

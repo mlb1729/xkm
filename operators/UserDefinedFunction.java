@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operators;
+package operators;
 
 import com.resonant.xkm.api.UserDefinedFunctionKernel;
 import com.resonant.xkm.expressions.BoundedExpression;

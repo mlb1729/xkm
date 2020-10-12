@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 
 public class Equal extends EqualityRelation {public Equal () {super(true);}}

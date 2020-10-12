@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.compiler;
+package compiler;
 
 import com.resonant.xkm.loader.Loadable;
 import com.resonant.xkm.reader.Combo;

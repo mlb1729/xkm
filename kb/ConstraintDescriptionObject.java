@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.kb;
+package kb;
 
 import com.resonant.xkm.api.ConstraintDescription;
 import com.resonant.xkm.km.KMObject;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operators;
+package operators;
 
 import com.resonant.xkm.entailments.Quantification;
 

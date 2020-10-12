@@ -2,7 +2,7 @@
  * Created on Aug 18, 2004
  *
  */
-package com.resonant.xkm.km;
+package km;
 
 import java.io.Serializable;
 import java.util.ArrayList;

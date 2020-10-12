@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.contexts;
+package contexts;
 
 import java.util.ArrayList;
 import java.util.HashMap;

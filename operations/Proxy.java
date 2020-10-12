@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 import com.resonant.xkm.contexts.Context;
 import com.resonant.xkm.expressions.BoundedExpression;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.kb;
+package kb;
 
 import java.util.Set;
 

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.bounds;
+package bounds;
 
 import com.resonant.xkm.points.DecreasingPoint;
 import com.resonant.xkm.points.IncreasingPoint;

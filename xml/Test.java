@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.xml;
+package xml;
 
 import com.resonant.xkm.km.KMObject;
 

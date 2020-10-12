@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.containers;
+package containers;
 
 /**
  * @author MLB

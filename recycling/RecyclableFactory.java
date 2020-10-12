@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.recycling;
+package recycling;
 
 import java.util.HashMap;
 import java.util.LinkedList;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.tests;
+package tests;
 
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectOutputStream;

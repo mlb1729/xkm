@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.changes;
+package changes;
 
 import com.resonant.xkm.recycling.Recyclable;
 

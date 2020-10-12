@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.operators;
+package operators;
 
 import java.util.Iterator;
 import java.util.List;

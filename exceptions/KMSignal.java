@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.exceptions;
+package exceptions;
 
 
 public class KMSignal 

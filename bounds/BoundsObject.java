@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.bounds;
+package bounds;
 
 import java.io.IOException;
 import java.io.ObjectInput;

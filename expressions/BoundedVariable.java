@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.expressions;
+package expressions;
 
 import com.resonant.xkm.api.Binding;
 import com.resonant.xkm.api.Interval;

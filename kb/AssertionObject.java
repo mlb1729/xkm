@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.kb;
+package kb;
 
 import com.resonant.xkm.api.Assertion;
 import com.resonant.xkm.expressions.BoundedExpression;

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.changes;
+package changes;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -75,7 +75,7 @@ public class ChangeManager
 
 	/*
 	 * "commit: to place officially in confinement or custody, as in a mental health facility."
-	 * 	--The American Heritage® Stedman's Medical Dictionary
+	 * 	--The American Heritageï¿½ Stedman's Medical Dictionary
 	 */
 
 	public void commitAll() {

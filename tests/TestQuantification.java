@@ -2,7 +2,7 @@
  * Created on Mar 9, 2005
  *
  */
-package com.resonant.xkm.tests;
+package tests;
 
 import org.apache.log4j.Logger;
 

@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.entailments;
+package entailments;
 
 import com.resonant.xkm.contexts.Context;
 

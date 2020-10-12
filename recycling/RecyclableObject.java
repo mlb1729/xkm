@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.recycling;
+package recycling;
 
 import com.resonant.xkm.km.KMObject;
 

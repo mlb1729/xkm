@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.expressions;
+package expressions;
 
 import com.resonant.xkm.bounds.Bounds;
 import com.resonant.xkm.domains.ManagedPoint;

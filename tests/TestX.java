@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.tests;
+package tests;
 
 import org.apache.log4j.Logger;
 

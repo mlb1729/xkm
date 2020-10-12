@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.entailments;
+package entailments;
 
 import java.util.Iterator;
 import java.util.List;

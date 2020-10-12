@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.kb;
+package kb;
 
 import java.io.Serializable;
 import java.util.List;

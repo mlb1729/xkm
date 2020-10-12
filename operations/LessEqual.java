@@ -3,6 +3,6 @@
  *
  
  */
-package com.resonant.xkm.operations;
+package operations;
 
 public class LessEqual extends OrderRelation {public LessEqual () {super(true,true);}}

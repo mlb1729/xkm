@@ -3,7 +3,7 @@
  *
  
  */
-package com.resonant.xkm.loader;
+package loader;
 
 import com.resonant.xkm.contexts.Context;
 import com.resonant.xkm.entailments.Herd;

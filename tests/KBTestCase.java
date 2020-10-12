@@ -4,7 +4,7 @@
  * TODO To change the template for this generated file go to
  * Window - Preferences - Java - Code Style - Code Templates
  */
-package com.resonant.xkm.tests;
+package tests;
 
 import java.util.Iterator;
 import java.util.List;

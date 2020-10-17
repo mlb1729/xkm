@@ -5,7 +5,7 @@
  */
 package api;
 
-import com.resonant.exception.ResonantBaseException;
+// import com.resonant.exception.ResonantBaseException;	// fixme
 import exceptions.KMException;
 
 /**
@@ -14,7 +14,8 @@ import exceptions.KMException;
  *
  */
 public class WrappedKBException 
-	extends ResonantBaseException
+//	extends ResonantBaseException	// fixme
+	extends Exception
 {
 	public WrappedKBException(){super();}
 	

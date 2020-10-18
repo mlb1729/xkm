@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.apache.commons.lang.StringUtils;
+//import org.apache.commons.lang.StringUtils;	// fixme
 
 import api.Assertion;
 import api.Binding;
@@ -917,8 +917,14 @@ public final class KBObject
 	public Interval getVariableInterval(Object[] path) {
 		Object object = fetch(path, false);
 		BoundedExpression variable = ((BoundedExpression)object);
-		if (variable == null)
-			debugError("Can't make a bounded expression from " + StringUtils.join(path, "."));
+		if (variable == null) {
+//			debugError("Can't make a bounded expression from " + StringUtils.join(path, "."));	// fixme
+			List<String> pathString = new ArrayList<String>();	// fixme
+			for (Object o: path) {	// fixme
+				pathString.add(o.toString());	// fixme
+			}	// fixme
+			debugError("Can't make a bounded expression from " + String.join(".", pathString));	// fixme
+		}
 		Interval interval = makeVariableInterval(variable);
 		return interval;
 	}

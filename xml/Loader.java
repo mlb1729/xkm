@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map;
 
-import com.resonant.util.Utilities;
+//import com.resonant.util.Utilities;	// fixme
 import km.KMObject;
 
 /**
@@ -38,14 +38,16 @@ public class Loader
 					String fileName = handle.getName();
 					if (fileName.endsWith(extension))
 					{
-						String contents = Utilities.ReadFile(handle.getAbsolutePath());				
+//						String contents = Utilities.ReadFile(handle.getAbsolutePath());		// fixme	
+						String contents  = "";	// fixme
 						String name = fileName.substring(0,
 								fileName.length() - extension.length());
 						map.put(name, contents);
 					}
 				}
 			}
-		} catch (IOException ex) {
+//		} catch (IOException ex) {	// fixme
+		} catch (Exception ex) {	// fixme
 			error("Unable to load file " + path + ": " + ex);
 		}
 	}
